@@ -17,3 +17,5 @@ Changes made in Github desktop
 Reference for embedding ESRI Online Map to websites:
 https://youtu.be/jRI3l8WoaLw?si=sW_JRTw_XMJiKVWq
 
+Reference for making the profile pic here
+https://www.adobe.com/ca/creativecloud/photography/discover/photo-to-cartoon.html
