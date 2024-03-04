@@ -1,15 +1,18 @@
-# GIS Analyst
+# GIS Analyst  |  Surveyor
 
-### Education
-'Hello world'
+## Background
+
+A graduate of the Master of Geographic Information Systems at the University of Calgary in December 2023, with a bachelor's degree in geomatics and experience in the geomatics industry. Passionate for learning and enhancing skills and knowledge in GIS, and keen on exploring topics in the geography field. 
+
+### My Story
+
+My first journey with GIS started during my time as a geomatics undergraduate student - I joined the volunteering community service projects organized by the University to remote hamlets in Jogjakarta, Indonesia and collaborated with the villagers in identifying local socio-economic issues, conducting geospatial analysis and presenting data cartographically. 
+
+Later when I was working as a surveyor in the geomatics industry, I was always fascinated by the powerful GIS tools and their potential to facilitate data management in the workplace. With a mindset of understanding the potential of GIS, I enrolled in the GIS graduate program in 2022. Empowered by my mixed academic background, I seek to work on domains including environmental conservation, resource management, and sustainability in society through GIS. 
 
 ### Experience
-'Hello Calgary'
 
-### Skills
-'Fields'
 
-Changes made in Github desktop
 
 
 
