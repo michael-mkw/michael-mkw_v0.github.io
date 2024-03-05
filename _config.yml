@@ -19,7 +19,7 @@ url : https://michael-mkw.github.io
 
 # Sidebar settings
 author:
-  avatar : "GitHubProfilePicCircle.png"
+  avatar : "/images/GitHubProfilePicCircle.png"
   name : "Michael Wong"
   bio : "GIS Analyst | Surveyor"
 
