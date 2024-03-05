@@ -17,10 +17,12 @@ description : "GitHub portfolio trial" #
 repository : "michael-mkw/michael-mkw.github.io"
 url : "https://michael-mkw.github.io"
 
+
 # Sidebar settings
-avatar : "GitHubProfilePicCircle.png"
-name : "Michael Wong"
-bio : "GIS Analyst | Surveyor"
+author:
+  avatar : "GitHubProfilePicCircle.png"
+  name : "Michael Wong"
+  bio : "GIS Analyst | Surveyor"
 
 
 theme : "jekyll-theme-minimal"         # Page theme
