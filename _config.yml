@@ -1,3 +1,17 @@
-title: Michael MKW
-description: GitHub portfolio trial
-theme: jekyll-theme-minimal
+# --------------------------------------------------------------------------------
+# Name:     Config.yml
+# Purpose:  1) As the side panel in GitHub pages
+#           2) To set up the Styles in the page
+#
+# Author:   Man-Kong Wong
+#
+# Version:  1.00    
+# Created:  2024-03-04
+#
+# --------------------------------------------------------------------------------
+
+# Basic site settings
+locale : "en-US"                     # Language setting
+title : Michael MKW                  # Site title
+description : GitHub portfolio trial # 
+theme : jekyll-theme-minimal         # Page theme
