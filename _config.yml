@@ -14,9 +14,12 @@
 locale : "en-US"                     # Language setting
 title : Portfolio                    # Site title
 description : GitHub portfolio trial # 
-theme : jekyll-theme-minimal         # Page theme
+
 
 # Sidebar settings
 avatar : "GitHubProfilePicCircle.png"
 name : "Michael Wong"
 bio : "GIS Analyst | Surveyor"
+
+
+theme : jekyll-theme-minimal         # Page theme
