@@ -18,4 +18,5 @@ theme : jekyll-theme-minimal         # Page theme
 
 # Sidebar settings
 avatar : "GitHubProfilePicCircle.png"
-
+name : "Michael Wong"
+bio : "GIS Analyst | Surveyor"
