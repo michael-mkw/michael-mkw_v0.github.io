@@ -15,6 +15,7 @@ locale : "en-US"                       # Language setting
 title : "Portfolio"                    # Site title
 description : "GitHub portfolio trial" # 
 repository : "michael-mkw/michael-mkw.github.io"
+url : "https://michael-mkw.github.io"
 
 # Sidebar settings
 avatar : "GitHubProfilePicCircle.png"
