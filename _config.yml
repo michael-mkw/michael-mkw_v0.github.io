@@ -11,9 +11,9 @@
 # --------------------------------------------------------------------------------
 
 # Basic site settings
-locale : "en-US"                     # Language setting
-title : Portfolio                    # Site title
-description : GitHub portfolio trial # 
+locale : "en-US"                       # Language setting
+title : "Portfolio"                    # Site title
+description : "GitHub portfolio trial" # 
 
 
 # Sidebar settings
