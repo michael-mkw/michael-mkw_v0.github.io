@@ -17,5 +17,5 @@ description : GitHub portfolio trial #
 theme : jekyll-theme-minimal         # Page theme
 
 # Sidebar settings
-avatar : GitHubProfilePicCircle.png
+avatar : "GitHubProfilePicCircle.png"
 
