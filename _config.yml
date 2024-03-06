@@ -18,10 +18,21 @@ url : https://michael-mkw.github.io
 
 
 # Sidebar settings
+# author:
+#   avatar : "GitHubProfilePicCircle.png"
+#   name : "Michael Wong"
+#   bio : "GIS Analyst | Surveyor"
+
 author:
-  avatar : "GitHubProfilePicCircle.png"
-  name : "Michael Wong"
-  bio : "GIS Analyst | Surveyor"
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Michael Wong"
+  # pronouns         : # example: "she/her"  
+  bio              : "GIS Analyst | Surveyor"
+  # location         : "Earth"
+  # employer         : "Red Brick University"
+  # uri              : # URL
+  # email            : "none@example.org" 
 
 
 theme : "jekyll-theme-minimal"         # Page theme
